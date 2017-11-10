@@ -1,0 +1,5 @@
+Adafruit-ADS1x15
+Adafruit_SSD1306
+RPi.GPIO
+pillow
+
